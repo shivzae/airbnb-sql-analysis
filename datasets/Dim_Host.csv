@@ -1,0 +1,302 @@
+Host_ID,Host_Name,Superhost_Flag,Total_Listings,Host_Since_Year,Response_Time
+0,Taylor Anderson,TRUE,12,2021,within a day
+1,Linda Burke,TRUE,12,2014,within a few hours
+2,Allison Buck,TRUE,13,2023,within a day
+3,Krystal Miles,FALSE,3,2019,within a day
+4,Faith Miller,FALSE,16,2021,within a day
+5,Michael Duran,TRUE,8,2020,within an hour
+6,Alexandra Mathis,TRUE,7,2013,within an hour
+7,Brandi Escobar,TRUE,8,2021,within an hour
+8,Stacy Randall,TRUE,7,2024,within a day
+9,Melanie Miller,TRUE,9,2010,within a few hours
+10,Ralph Allen,FALSE,2,2024,within an hour
+11,Frank Hickman,TRUE,13,2019,within a few hours
+12,Mark Ross,TRUE,6,2018,within a day
+13,William Howard,TRUE,5,2014,within an hour
+14,Jesse Garner PhD,FALSE,18,2010,within an hour
+15,Michelle Torres,TRUE,11,2014,within a day
+16,Kim Campbell,FALSE,18,2020,within a day
+17,Noah Henry,FALSE,3,2023,within a few hours
+18,Katie Hill,FALSE,13,2017,within a few hours
+19,Michelle Allen,TRUE,8,2013,within a few hours
+20,Kristina Phillips,FALSE,13,2017,within a few hours
+21,Bobby Adams,TRUE,16,2024,within a few hours
+22,Steven Evans,TRUE,10,2022,within a few hours
+23,Angel Woods,TRUE,14,2013,within an hour
+24,Jacqueline Anderson,TRUE,11,2012,within an hour
+25,Brian Reynolds,TRUE,20,2020,within an hour
+26,Frank Johnston,FALSE,11,2020,within an hour
+27,Brian Sims,TRUE,2,2012,within a day
+28,Richard Brennan,FALSE,7,2021,within an hour
+29,Danny Graves,TRUE,10,2015,within a day
+30,Kevin Jordan,TRUE,19,2011,within an hour
+31,Becky Oneill,FALSE,13,2020,within a few hours
+32,Haley Hines,TRUE,9,2015,within an hour
+33,Dustin Dawson,TRUE,13,2023,within a day
+34,Harold Brown,FALSE,11,2012,within a few hours
+35,Sarah Hughes,FALSE,1,2017,within a day
+36,Amy Long,TRUE,6,2019,within a few hours
+37,Rebecca Johnson,TRUE,2,2019,within an hour
+38,Tony Duke,TRUE,8,2013,within a day
+39,Amy Li,TRUE,5,2012,within an hour
+40,Ryan Fernandez,FALSE,11,2019,within a few hours
+41,Jennifer Klein,TRUE,20,2015,within a day
+42,Jason Alexander,TRUE,19,2021,within a few hours
+43,Hayley Brock,FALSE,12,2013,within a few hours
+44,Andrew Brooks,FALSE,6,2018,within a day
+45,Shannon Rogers,TRUE,4,2012,within a day
+46,Dawn Simpson,TRUE,3,2021,within a day
+47,Stephanie Parks,FALSE,19,2020,within a few hours
+48,Joyce Castro,TRUE,13,2011,within a day
+49,Jessica Rubio,TRUE,3,2023,within a few hours
+50,Kevin Morgan,FALSE,9,2016,within an hour
+51,Edwin Smith,FALSE,9,2018,within a day
+52,Michael Miles,TRUE,12,2017,within a few hours
+53,Blake Schwartz,FALSE,7,2018,within an hour
+54,Kelly Adkins,TRUE,18,2021,within a few hours
+55,Amanda Tucker,FALSE,17,2011,within an hour
+56,Johnny Robinson,FALSE,1,2010,within an hour
+57,Ivan Winters,FALSE,10,2023,within a day
+58,Dr. Nancy Walters,FALSE,5,2023,within a few hours
+59,Joshua Mora,FALSE,12,2016,within an hour
+60,Heidi Smith,TRUE,18,2011,within an hour
+61,Miranda Elliott,FALSE,17,2020,within a day
+62,Amanda Horton,FALSE,14,2011,within a few hours
+63,Kimberly Lucero,FALSE,4,2016,within a few hours
+64,Laura Clayton,TRUE,5,2024,within a few hours
+65,Ashley Young,TRUE,15,2015,within a few hours
+66,Katherine Melton,TRUE,7,2018,within a few hours
+67,Bruce Salinas,FALSE,11,2018,within an hour
+68,Carol Mccoy,FALSE,1,2023,within a few hours
+69,Donald Cook,FALSE,4,2018,within a few hours
+70,Devin Spence,TRUE,17,2018,within a day
+71,Andrew Evans,TRUE,18,2019,within a few hours
+72,John Johnson,TRUE,4,2012,within a few hours
+73,Amber Conrad,TRUE,14,2025,within an hour
+74,Tricia Reese,TRUE,10,2022,within an hour
+75,Rodney Mccarthy,FALSE,17,2015,within an hour
+76,Mrs. Deanna Scott DDS,FALSE,7,2018,within an hour
+77,Mr. Christopher Jones,FALSE,14,2013,within a few hours
+78,Tammie Jenkins,FALSE,13,2010,within a few hours
+79,Jason Russo,TRUE,11,2025,within a few hours
+80,Hayley Morrison,FALSE,5,2016,within an hour
+81,Lucas Bailey,FALSE,10,2014,within a few hours
+82,Mr. Mark Matthews PhD,TRUE,2,2011,within a day
+83,Erica Edwards,TRUE,17,2021,within an hour
+84,Mrs. Amber Clark MD,FALSE,10,2018,within an hour
+85,Tracy Simmons,FALSE,17,2020,within a few hours
+86,Richard Jones,FALSE,5,2023,within an hour
+87,Edwin Jennings,TRUE,9,2011,within a day
+88,Austin Knight,FALSE,8,2023,within a day
+89,Chad Kirk,TRUE,14,2013,within a few hours
+90,Alexandria Meyers,FALSE,18,2019,within a few hours
+91,Paige Thompson,FALSE,12,2024,within a few hours
+92,Chelsea Brown,FALSE,12,2015,within an hour
+93,Jasmine Blackwell,FALSE,11,2019,within a day
+94,Andrew Kelley,TRUE,7,2015,within a few hours
+95,Michael Berger,FALSE,14,2019,within a few hours
+96,Jason Moreno,FALSE,4,2010,within an hour
+97,Ashley Moore,TRUE,4,2011,within an hour
+98,Priscilla Wilson,TRUE,10,2024,within a few hours
+99,James Estrada,FALSE,2,2015,within an hour
+100,Traci Dillon,TRUE,14,2012,within an hour
+101,William Jones,TRUE,18,2013,within an hour
+102,Mary Mack,FALSE,15,2011,within an hour
+103,Gina Thomas,FALSE,12,2018,within a day
+104,Lisa Adams,TRUE,14,2014,within an hour
+105,Kyle Lopez,TRUE,19,2020,within a day
+106,Jonathan Nguyen,TRUE,10,2011,within an hour
+107,Brooke Lopez,FALSE,8,2013,within a few hours
+108,Jennifer Kelley,TRUE,6,2016,within a day
+109,Jennifer Francis,FALSE,15,2012,within a day
+110,Beverly Bowers,FALSE,19,2018,within an hour
+111,Daniel Lopez,FALSE,11,2021,within a day
+112,Ashley Guzman,TRUE,19,2024,within an hour
+113,Carrie Young,FALSE,3,2024,within a few hours
+114,Bobby Webster,TRUE,13,2013,within an hour
+115,Ariana Wilson,FALSE,16,2022,within a day
+116,Alyssa Moore,TRUE,15,2019,within a few hours
+117,Howard Myers,TRUE,1,2014,within a few hours
+118,Kelly Carter,TRUE,1,2012,within a few hours
+119,Daniel Gutierrez,TRUE,11,2018,within an hour
+120,Shane Nguyen,FALSE,6,2012,within an hour
+121,Nancy Owens,TRUE,1,2024,within a day
+122,Michele Vargas,TRUE,16,2015,within a day
+123,Kim Nash,TRUE,5,2025,within an hour
+124,Amanda Smith,TRUE,6,2015,within a day
+125,Mary Greer,FALSE,8,2012,within an hour
+126,Joshua Morris,FALSE,13,2015,within a few hours
+127,Keith Perez,TRUE,17,2011,within a few hours
+128,Dr. David Obrien DVM,TRUE,7,2019,within a day
+129,Brenda Ho,FALSE,9,2022,within an hour
+130,Brittany Walker,FALSE,13,2018,within a day
+131,Traci Fernandez,TRUE,20,2011,within a day
+132,Eduardo Bishop,FALSE,5,2014,within a day
+133,Justin Bates,FALSE,18,2019,within a few hours
+134,Steven Tran,FALSE,8,2023,within a few hours
+135,Christine Holder,FALSE,7,2018,within an hour
+136,Edward Alexander,FALSE,5,2017,within a day
+137,Shannon Cole,TRUE,9,2019,within a few hours
+138,Justin Cobb,TRUE,6,2024,within a day
+139,Samantha Hall,FALSE,16,2018,within an hour
+140,Ashley Brown,FALSE,6,2024,within an hour
+141,Nathan Bautista,TRUE,13,2019,within a day
+142,Anthony Thompson,TRUE,17,2010,within a few hours
+143,Michael Melendez,FALSE,1,2020,within an hour
+144,Mr. Jeffrey Harris,TRUE,4,2016,within a day
+145,William Koch,TRUE,19,2023,within a day
+146,Anthony Durham,TRUE,7,2018,within a few hours
+147,Tiffany Gutierrez,FALSE,2,2012,within a few hours
+148,George Owens,TRUE,8,2012,within an hour
+149,Randy Richardson,TRUE,5,2011,within an hour
+150,Raymond Jackson,TRUE,18,2012,within a day
+151,Dan Owens,FALSE,7,2013,within an hour
+152,Heather Graves,TRUE,20,2025,within a day
+153,Lindsay Davis,FALSE,20,2021,within a day
+154,Christine Chapman,TRUE,20,2012,within an hour
+155,Alexander Cruz,FALSE,10,2012,within a day
+156,Mary Waters DDS,TRUE,9,2025,within a few hours
+157,Keith Smith,FALSE,2,2024,within a day
+158,Christian Davenport,TRUE,3,2014,within an hour
+159,Miranda Olson,FALSE,2,2015,within a day
+160,Darin Jones,FALSE,18,2025,within a few hours
+161,Jimmy Cannon,FALSE,5,2023,within a day
+162,Elizabeth Smith,TRUE,10,2010,within a day
+163,Crystal Burke,FALSE,18,2017,within an hour
+164,Curtis Jarvis,TRUE,15,2012,within a day
+165,Mrs. Tracey Smith,FALSE,2,2015,within a few hours
+166,Kelly Randall,TRUE,9,2024,within a few hours
+167,William Henson,FALSE,3,2010,within a day
+168,Francisco Ayala,TRUE,6,2016,within a few hours
+169,Shannon Long,TRUE,20,2010,within a few hours
+170,Marissa Hall,TRUE,2,2011,within a day
+171,Russell Duarte,FALSE,15,2018,within a day
+172,Amanda Cortez,FALSE,14,2025,within a few hours
+173,Scott Acosta,FALSE,20,2019,within an hour
+174,Katherine Glenn,TRUE,10,2024,within an hour
+175,Jason Wallace,TRUE,17,2023,within a day
+176,Mary Christensen,FALSE,5,2025,within a few hours
+177,Cindy Gonzalez,FALSE,10,2011,within an hour
+178,Andrea Santos,TRUE,18,2017,within a day
+179,Kristin Hess,FALSE,7,2013,within an hour
+180,Abigail Peters,TRUE,3,2020,within a few hours
+181,Timothy Arroyo,FALSE,13,2010,within a day
+182,James Williams,TRUE,20,2025,within a day
+183,Leslie Castro,FALSE,15,2019,within a few hours
+184,Nancy Phillips,TRUE,15,2018,within an hour
+185,Ruben Owen,FALSE,18,2023,within an hour
+186,Jacqueline Simmons,FALSE,19,2025,within a few hours
+187,Philip Cox,FALSE,9,2015,within a day
+188,Stacy Austin,TRUE,14,2011,within a day
+189,William Dixon,TRUE,5,2024,within an hour
+190,Russell Nguyen,FALSE,17,2015,within a few hours
+191,Kathy Baker,FALSE,10,2011,within a day
+192,Vanessa Patterson,FALSE,19,2014,within a day
+193,Danielle Johnson,TRUE,13,2024,within an hour
+194,Cassandra Taylor,FALSE,18,2020,within a day
+195,Daniel Moore,FALSE,8,2011,within a few hours
+196,Thomas Gonzalez,TRUE,7,2020,within a day
+197,Veronica Mcbride,FALSE,8,2025,within a few hours
+198,Stephanie Parrish,TRUE,4,2018,within a few hours
+199,Jeffrey Decker,TRUE,7,2020,within an hour
+200,Rebecca Andrade,FALSE,20,2017,within an hour
+201,Lauren Rodriguez,TRUE,4,2013,within a day
+202,Joel Stephenson,TRUE,13,2019,within a few hours
+203,Tonya Martinez,TRUE,17,2016,within a day
+204,Michelle Petersen,TRUE,17,2020,within a day
+205,Tracey Cooper,FALSE,7,2022,within a few hours
+206,Katie Burton,FALSE,4,2017,within a few hours
+207,Samantha Nelson,FALSE,2,2010,within an hour
+208,Richard Berg,FALSE,9,2022,within an hour
+209,Kimberly Thomas,FALSE,16,2017,within a day
+210,Kristin Archer,FALSE,7,2010,within a few hours
+211,Kevin Riley,TRUE,9,2011,within a few hours
+212,Laura Davis,TRUE,1,2010,within a day
+213,Jessica Higgins,FALSE,15,2014,within a few hours
+214,Gary Rowland,TRUE,18,2013,within an hour
+215,Phillip Ortega,FALSE,1,2013,within a few hours
+216,Carlos Carter,FALSE,6,2023,within a day
+217,Marissa Fletcher,FALSE,15,2021,within an hour
+218,David Smith,TRUE,11,2011,within a few hours
+219,Jessica Flores,FALSE,16,2019,within an hour
+220,Adam Johnson,TRUE,15,2018,within a few hours
+221,Willie Gilmore,FALSE,8,2021,within a day
+222,Rachel Robertson,TRUE,11,2023,within a few hours
+223,Peter Woods,FALSE,9,2016,within a few hours
+224,Gloria Jones,TRUE,16,2025,within a day
+225,Derek Norris,TRUE,19,2017,within a day
+226,Ryan Bean,TRUE,11,2012,within a few hours
+227,Anna Sullivan,TRUE,19,2025,within a day
+228,Jeffrey Wagner,FALSE,11,2023,within a few hours
+229,Audrey Gibbs,FALSE,2,2013,within a few hours
+230,Pamela Santos,TRUE,10,2012,within an hour
+231,Mark Bishop,FALSE,20,2013,within a day
+232,Jonathan Jones,TRUE,12,2015,within a few hours
+233,Kristopher Cantrell,TRUE,18,2012,within an hour
+234,Julie Wright,FALSE,9,2011,within an hour
+235,Isabella Howell,TRUE,8,2013,within a few hours
+236,Sheila Morris,FALSE,11,2024,within an hour
+237,Aimee Copeland,FALSE,2,2016,within a few hours
+238,Daniel Morales,FALSE,5,2024,within an hour
+239,Joshua Soto,FALSE,7,2015,within an hour
+240,Jordan Calhoun,TRUE,20,2012,within an hour
+241,Tiffany Villarreal,TRUE,4,2025,within a few hours
+242,Susan Shaw,TRUE,12,2019,within a few hours
+243,Whitney Martinez,FALSE,20,2019,within a day
+244,Tamara Richardson DDS,TRUE,15,2022,within an hour
+245,James Jones,TRUE,9,2015,within a few hours
+246,John Meyer,FALSE,12,2013,within a day
+247,Matthew Avila,FALSE,5,2011,within a day
+248,Amber Jones,TRUE,15,2021,within a few hours
+249,Eric Jackson,FALSE,2,2014,within an hour
+250,Samantha Shelton,TRUE,20,2010,within a day
+251,Stephen Johnson,TRUE,14,2016,within a few hours
+252,John Conner,FALSE,15,2020,within a few hours
+253,Abigail Wright,FALSE,8,2025,within an hour
+254,Stephanie Hernandez,FALSE,17,2015,within a few hours
+255,David Long,FALSE,18,2018,within an hour
+256,Kimberly Schmidt,TRUE,18,2024,within an hour
+257,Helen Marks,TRUE,6,2015,within a day
+258,Christopher Bell,TRUE,2,2014,within an hour
+259,Jessica Harris,FALSE,7,2014,within an hour
+260,Christina Mccarty,TRUE,17,2019,within an hour
+261,Steven Hughes,FALSE,3,2024,within a few hours
+262,Stephanie Martinez,FALSE,16,2011,within a day
+263,Sierra Franco,TRUE,6,2019,within an hour
+264,Tonya Christian,TRUE,17,2016,within a few hours
+265,Edward Hernandez,FALSE,18,2012,within an hour
+266,Donna Anderson,TRUE,20,2020,within a few hours
+267,Dawn Deleon,TRUE,13,2016,within an hour
+268,Cheryl Petersen,FALSE,11,2011,within a day
+269,Melissa Hernandez,FALSE,8,2014,within a day
+270,Dana Murphy,FALSE,16,2022,within an hour
+271,Miss Cathy Todd,TRUE,1,2019,within an hour
+272,Victor Neal,TRUE,13,2022,within a few hours
+273,Shawn Moore,TRUE,19,2012,within a few hours
+274,Matthew Watson,TRUE,4,2015,within a few hours
+275,Sabrina Vargas,FALSE,19,2011,within a few hours
+276,Richard Miller,FALSE,18,2015,within an hour
+277,Regina Gill,FALSE,19,2020,within a day
+278,Edward Ramirez,TRUE,12,2021,within a day
+279,Daniel Rice,FALSE,7,2014,within a few hours
+280,Paul Walton,FALSE,2,2015,within an hour
+281,James Miller,FALSE,9,2017,within a day
+282,Jared Hughes,TRUE,9,2016,within a day
+283,Rebecca Atkins,FALSE,7,2024,within a few hours
+284,Tammy Adams,FALSE,14,2019,within an hour
+285,Rachael Brown,FALSE,10,2024,within a few hours
+286,Susan Dickerson,FALSE,19,2018,within a day
+287,Kimberly Wright,FALSE,16,2013,within a few hours
+288,Jasmine Johnson,FALSE,17,2020,within an hour
+289,Thomas Miranda,TRUE,17,2018,within a day
+290,Brittany Rivera,FALSE,5,2018,within an hour
+291,Brittany Hensley,TRUE,1,2025,within an hour
+292,Brenda Garcia,FALSE,7,2020,within a few hours
+293,Maureen Webb,FALSE,18,2018,within an hour
+294,Amanda Johnson,FALSE,8,2021,within a day
+295,Ariel Vargas,TRUE,5,2011,within a few hours
+296,Ricky Cross,TRUE,10,2025,within a day
+297,Terrance Gonzalez,TRUE,16,2014,within an hour
+298,Jeanette Norris,FALSE,9,2012,within a day
+299,Dustin Greene,FALSE,5,2018,within an hour
+300,Place holder,FALSE,1,2020,within a  day 
